@@ -7,7 +7,7 @@
 - [x] to do list
 - [ ] 2nd thing
 
-
+----
 ```python
 s='python syntax highlightlng '
 
@@ -21,7 +21,7 @@ var s = 'javascript syntax highlightlng ';
 
 alert(s);
 ```
-
+----
 
 
 | Table | Are | Cool |
