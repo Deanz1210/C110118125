@@ -9,7 +9,13 @@
 
 
 ```python
-s='你好 text'
+s='python syntax highlightlng '
 
 print(s)
+```
+
+```js
+var s = 'javascript syntax highlightlng ';
+
+alert(s);
 ```
