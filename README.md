@@ -15,7 +15,21 @@ print(s)
 ```
 
 ```js
+
+
 var s = 'javascript syntax highlightlng ';
 
 alert(s);
 ```
+
+
+
+| Table | Are | Cool |
+|:-------|:-----:|-------:
+|Col 3 is|righ-aligned|$1600|
+|Col 2 is|centered|$12|
+|zebra strips|are neat|$1|
+
+
+
+
