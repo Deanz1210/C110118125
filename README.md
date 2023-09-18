@@ -8,3 +8,8 @@
 - [ ] 2nd thing
 
 
+```python
+s='你好 text'
+
+print(s)
+```
